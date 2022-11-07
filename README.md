@@ -10,7 +10,7 @@
 
 
 
-## 按[此处](https://alist.nn.ci/zh/guide/drivers/onedrive.html)或下方`Deployment  `中的方法获取 api token ，并填入`index.php`中
+## 按[此处](https://alist.nn.ci/zh/guide/drivers/onedrive.html)或下方`Deploymen  `中的方法获取 api token ，并填入`index.php`中
 
 注意重定向地址
 
